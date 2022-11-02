@@ -1,0 +1,2 @@
+# cistaMzda
+výpočet čisté mzdy
